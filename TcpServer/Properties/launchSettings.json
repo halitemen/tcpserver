@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TcpServer": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "TCP_PORT": "18000"
+      }
+    }
+  }
+}
